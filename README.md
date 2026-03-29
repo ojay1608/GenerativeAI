@@ -20,4 +20,4 @@ This repository contains my Homework 1 submission for my Generative AI course at
 4. final README update with video link
 
 ## Video walkthrough
-[link to be added]
+https://youtu.be/vY6_jDgCMXE
